@@ -1,0 +1,7 @@
+1. satır
+2. satır"
+Yusuf Talha Dirican 
+Python Programlama Dili
+Dosya İşlemleri
+birinci satırbirinci satırbirinci satır
+üçüncü satır
